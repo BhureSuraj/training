@@ -1,0 +1,22 @@
+.form-data-display {
+  margin-top: 1rem;
+}
+
+.form-data-item {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.form-data-item:last-child {
+  border-bottom: none;
+}
+
+.form-data-item strong {
+  margin-right: 0.5rem;
+  color: #666;
+}
+
+.form-data-item span {
+  color: #333;
+}
